@@ -6,7 +6,7 @@ body {
   background: scroll;
 }
 
-/* .cursor {
+.cursor {
   position: fixed;
   width: 45px;
   height: 45px;
@@ -30,7 +30,7 @@ body {
   pointer-events: none;
   transform: translate(-50%, -50%);
   transition: 0.01s;
-} */
+}
 
 .main {
   background-color: #f0f4ff;
